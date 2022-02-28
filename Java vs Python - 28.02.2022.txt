@@ -1,1 +1,1 @@
-Java and Python aar programming languages. 
+Java and Python are high-level programming languages. 
